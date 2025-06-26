@@ -1,5 +1,6 @@
 This repository contains a machine learning project focused on predicting movie IMDB ratings using various features like genre, director, runtime, votes, and revenue. The objective is to explore the dataset, build regression models, and evaluate their performance in estimating movie ratings.
 
+
 📁 Dataset
 Source: IMDB Movie Dataset
 
